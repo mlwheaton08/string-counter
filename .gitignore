@@ -12,8 +12,8 @@
 /build
 
 # misc
-ApiKeys.js
 apiKeys.js
+shipApiKey.js
 .DS_Store
 .env.local
 .env.development.local
